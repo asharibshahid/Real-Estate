@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Hero from "./components/hero";
 import Properties from "./properties/page";
 import Rentals from "./rentals/page";
